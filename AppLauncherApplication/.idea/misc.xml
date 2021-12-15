@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ADMD/applauncher-application-octavians23/AppLauncherApplication/app/src/main/res/drawable/android.xml" value="0.17685185185185184" />
+        <entry key="..\:/ADMD/applauncher-application-octavians23/AppLauncherApplication/app/src/main/res/drawable/play.xml" value="0.18981481481481483" />
+        <entry key="..\:/ADMD/applauncher-application-octavians23/AppLauncherApplication/app/src/main/res/drawable/test_image.xml" value="0.18981481481481483" />
+        <entry key="..\:/ADMD/applauncher-application-octavians23/AppLauncherApplication/app/src/main/res/layout/activity_application.xml" value="0.4" />
+        <entry key="..\:/ADMD/applauncher-application-octavians23/AppLauncherApplication/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/ADMD/applauncher-application-octavians23/AppLauncherApplication/app/src/main/res/layout/dropdown_menu_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/ADMD/applauncher-application-octavians23/AppLauncherApplication/app/src/main/res/layout/fragment_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/ADMD/applauncher-application-octavians23/AppLauncherApplication/app/src/main/res/layout/row_layout.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
